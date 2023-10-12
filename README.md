@@ -23,6 +23,10 @@
 ### 4. Start Hardhat node
 `$ npx hardhat node`
 
+
+https://github.com/soyaya/NFT_Realestate/assets/35530721/6f0fc424-104b-45ad-a080-d80b949a6310
+
+
 ### 5. Run deployment script
 In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
